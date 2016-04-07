@@ -1,6 +1,6 @@
 # convsubtitler
 
-iconv wrapper for batch subtitle encoding converstion
+`iconv` wrapper for batch subtitle encoding converstion
 
 ## Notes
 
