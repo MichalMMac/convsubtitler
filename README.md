@@ -1,12 +1,12 @@
 # convsubtitler
 
-`iconv` wrapper for batch subtitle encoding converstion
+`convsubtitler.bash` is `iconv` wrapper for batch subtitle encoding converstion.
 
 ## Notes
 
-`convsubtitler` atempts to convert supplied files from one encoding to another. You can supply files or directories as arguments. Directories are search for subtitle files using `find` with file extension as a filter.
+`convsubtitler.bash` atempts to convert supplied files from one encoding to another. You can supply files or directories as arguments. Directories are search for subtitle files using `find` with file extension as a filter.
 
-Files are converted in place. If you want to retain original files, back them up before conversion or tweak `convsubtitler` script.
+Files are converted in place. If you want to retain original files, back them up before conversion or tweak `convsubtitler.bash` script.
 
 Use at your own risk.
 
